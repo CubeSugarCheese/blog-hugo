@@ -46,5 +46,6 @@ jobs:
                   repository-name: CubeSugarCheese/cubesugarcheese.github.io
                   branch: main
                   folder: public
+                  token: ${{ secrets.BLOG_ACCESS_TOKEN }}
                   clean: true
                   single-commit: true
