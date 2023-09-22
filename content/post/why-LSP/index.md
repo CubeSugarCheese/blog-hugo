@@ -1,5 +1,5 @@
 ---
-title: 为什么是 LSP
+title: 为什么是 LSP ？
 slug: why-lsp
 date: 2023-9-22 22:00:00+0800
 categories:
