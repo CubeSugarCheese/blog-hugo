@@ -1,7 +1,7 @@
 ---
 title: 为什么是 LSP ？
 slug: why-lsp
-date: 2023-9-22 22:00:00+0800
+date: 2023-9-22 22:04:00+0800
 categories:
     - 翻译作品
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
