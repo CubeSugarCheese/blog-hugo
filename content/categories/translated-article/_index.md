@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 翻译作品
+description: 经过翻译的作品
 image:
 
 # Badge style
