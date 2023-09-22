@@ -14,7 +14,7 @@ LSP ([language server protocol](https://microsoft.github.io/language-server-prot
 ![LSP-MxN](LSP-MxN.png)
 
 
-我认为这种对LSP受欢迎程度的标准解释是错误的。在这篇文章中，我提出了一个替代图片。
+我认为这种对 LSP 受欢迎程度的标准解释是错误的。在这篇文章中，我提出了一个替代图片。
 
 # 标准解释
 解释如下：
@@ -48,7 +48,7 @@ LSP 所做的是通过提供一个常见的细腰[^1]将其削减为 `M + N`，�
 但我对那个时代的记忆截然不同。要想获得像样的 IDE 支持，要么使用 JetBrains 家的 IDE（IntelliJ 或 ReSharper） 所支持的语言，要么另寻他路。
 
 
-只有一个可以编辑器提供有意义的语义化 IDE 支持。
+只有一个编辑器可以提供有意义的语义化 IDE 支持。
 
 # 另一种说法
 我想说，过去 IDE 支持如此糟糕的原因并非如此。
